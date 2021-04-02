@@ -13,10 +13,10 @@ I'm a JS Full Stack Developer and passionate about making the web accessible to 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="30" height="30" align="center" style="max-width:100%;"></a>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRw5k00WTfDczz9PYgixMxyCWzu__uEMhyw0lIP_LYmPhlxf1jJNesTwudHtUfkkERWqk&usqp=CAU" width="30" height="30" align="center" style="max-width:100%;"></a>
  <img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.e62b12d489.png" width="30" height="30" align="center" style="max-width:100%;"></a>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/raw/master/img/skills/html5.png" width="30" height="30" align="center" style="max-width:100%;"></a>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/raw/master/img/skills/css.png" width="30" height="30" align="center" style="max-width:100%;"></a>
- <img src="https://github.com/JavierBalonga/JavierBalonga/raw/master/img/skills/react.png" width="30" height="30" align="center" style="max-width:100%;"></a>
- <img src="https://github.com/JavierBalonga/JavierBalonga/raw/master/img/skills/redux.png" width="30" height="30" align="center" style="max-width:100%;"></a>
+ <img src="https://miro.medium.com/max/1000/1*Yafu7ihc1LFuP4azerAa4w.png" width="30" height="30" align="center" style="max-width:100%;"></a>
+  <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" width="30" height="30" align="center" style="max-width:100%;"></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" width="30" height="30" align="center" style="max-width:100%;"></a>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" width="30" height="30" align="center" style="max-width:100%;"></a>
  <img src="https://github.com/JavierBalonga/JavierBalonga/raw/master/img/skills/nodejs.png" width="30" height="30" align="center" style="max-width:100%;"></a>
  <img src="https://github.com/JavierBalonga/JavierBalonga/raw/master/img/skills/express.png" width="30" height="30" align="center" style="max-width:100%;"></a>
  <img src="https://github.com/JavierBalonga/JavierBalonga/raw/master/img/skills/postgresql.png" width="30" height="30" align="center" style="max-width:100%;"></a>
