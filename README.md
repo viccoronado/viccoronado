@@ -1,5 +1,5 @@
 
-  # Hi there! I'm Victoria Coronado 👋
+  # Hi there! I'm Victoria 👋
 
 
 I'm a JS Full Stack Developer and passionate about making the web accessible to everyone and advocating for building open and inclusive communities ✨ I'm currently working on my final project of Henry's bootcamp, an e-commerce!
