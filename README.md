@@ -1,8 +1,10 @@
-# Hi there! I'm Victoria Coronado 👋
+<p align="center">
+  # Hi there! I'm Victoria Coronado 👋
+ </p>
 
-I'm Victoria, a JS Full Stack Developer from Argentina.
+I'm a JS Full Stack Developer and passionate about making the web accessible to everyone and advocating for building open and inclusive communities.
 
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[vic-coronado]" />
+I love sharing my knowledge and learn with others. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viccoronado)](https://github.com/viccoronado/github-readme-stats)
