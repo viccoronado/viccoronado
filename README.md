@@ -17,7 +17,7 @@ I'm a JS Full Stack Developer and passionate about making the web accessible to 
   <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" width="30" height="30" align="center" style="max-width:100%;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" width="30" height="30" align="center" style="max-width:100%;">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" width="30" height="30" align="center" style="max-width:100%;">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWLBe-VaJIYEbmTPrm1XyFy35MInioRpbpKK48hmPbj-m8TCYEG_GSIUZZIpXNuTqG-U&usqp=CAU" width="30" height="30" align="center" style="max-width:100%;"><
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWLBe-VaJIYEbmTPrm1XyFy35MInioRpbpKK48hmPbj-m8TCYEG_GSIUZZIpXNuTqG-U&usqp=CAU" width="30" height="30" align="center" style="max-width:100%;">
  <img src="https://midu.dev/images/tags/git.png" width="30" height="30" align="center" style="max-width:100%;">
 
 </p>
