@@ -16,7 +16,7 @@ I'm a JS Full Stack Developer and passionate about making the web accessible to 
 - React
 - Redux
 - NodeJS & Express
-- Sequelize - Postgres
+- Sequelize & Postgres
 
 ### Follow me
 
