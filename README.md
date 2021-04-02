@@ -8,7 +8,7 @@ I'm a JS Full Stack Developer and passionate about making the web accessible to 
 - ❤ Learning all about **Open Source**
 - ✊ When I'm not coding, you can find me doing activism for social justice, non-human animals and against the climate crisis
 
-### Hard skills
+### Skills
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="30" height="30" align="center" style="max-width:100%;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRw5k00WTfDczz9PYgixMxyCWzu__uEMhyw0lIP_LYmPhlxf1jJNesTwudHtUfkkERWqk&usqp=CAU" width="30" height="30" align="center" style="max-width:100%;">
