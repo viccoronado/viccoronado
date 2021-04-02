@@ -13,10 +13,9 @@ I'm a JS Full Stack Developer and passionate about making the web accessible to 
 - JavaScript
 - HTML
 - CSS
-- NodeJS
 - React
 - Redux
-- Express
+- NodeJS & Express
 - Sequelize - Postgres
 
 ### Get in touch 
