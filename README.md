@@ -4,7 +4,8 @@
 
 I'm a JS Full Stack Developer and passionate about making the web accessible to everyone and advocating for building open and inclusive communities ✨ I love sharing my knowledge with others and learn from them too. 
 
-- 🌿 My pronouns are she/her
+- 🌿 My pronouns: She/her
+- 🌎 Based in Córdoba, Argentina
 - ✊ When I'm not coding, you can find me doing activism for social justice, non-human animals and against the climate crisis
 
 
