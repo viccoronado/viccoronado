@@ -1,4 +1,4 @@
-# Hey 👋
+# Hi there! I'm Victoria Coronado 👋
 
 I'm Victoria, a JS Full Stack Developer from Argentina.
 
