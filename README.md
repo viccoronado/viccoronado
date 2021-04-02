@@ -1,6 +1,6 @@
-<p align="center">
+< align="center">
   # Hi there! I'm Victoria Coronado 👋
- </p>
+ </>
 
 I'm a JS Full Stack Developer and passionate about making the web accessible to everyone and advocating for building open and inclusive communities.
 
