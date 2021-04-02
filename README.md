@@ -8,8 +8,3 @@ I'm a JS Full Stack Developer and passionate about making the web accessible to 
 - ❤ Learning all about **Open Source**
 - ✊ When I'm not coding, you can find me doing activism for social justice, non-human animals and against the climate crisis
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viccoronado)](https://github.com/viccoronado/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viccoronado&layout=compact)](https://github.com/viccoronado/github-readme-stats)
-
