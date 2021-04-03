@@ -18,7 +18,7 @@ I'm a JS Full Stack Developer passionate about making the web accessible to ever
 - NodeJS & Express
 - Sequelize & Postgres
 
-### Get in touch
+### Get in touch 📩
 
 - [LinkedIn](https://www.linkedin.com/in/vic-coronado/)
 - Gmail: vcoronadoasm@gmail.com
