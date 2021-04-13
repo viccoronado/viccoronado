@@ -7,7 +7,7 @@ I'm a JS Full Stack Developer passionate about making the web accessible to ever
 - ❤ Learning all about **Open Source**
 - ✊ When I'm not coding, you can find me doing activism for social justice, non-human animals and against the climate change
 
-### My skills 💻
+### My skills 💥
 
 - JavaScript
 - HTML
@@ -17,7 +17,7 @@ I'm a JS Full Stack Developer passionate about making the web accessible to ever
 - NodeJS & Express
 - Sequelize & Postgres
 
-### Get in touch 📩
+### Get in touch 📲
 
 - LinkedIn: [https://www.linkedin.com/in/vic-coronado/](https://www.linkedin.com/in/vic-coronado/)
 - E-mail: vcoronadoasm@gmail.com
