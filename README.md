@@ -22,3 +22,5 @@ I'm a JS Full Stack Developer passionate about making the web accessible to ever
 
 - LinkedIn: [https://www.linkedin.com/in/vic-coronado/](https://www.linkedin.com/in/vic-coronado/)
 - E-mail: vcoronadoasm@gmail.com
+
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
