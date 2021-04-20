@@ -16,6 +16,8 @@ I'm a JS Full Stack Developer passionate about making the web accessible to ever
 - Redux
 - NodeJS & Express
 - Sequelize & Postgres
+- Passport
+- Firebase & Supabase
 
 ### Get in touch 📲
 
