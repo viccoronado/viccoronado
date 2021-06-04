@@ -12,11 +12,11 @@ I'm a JS Full Stack Developer passionate about making the web accessible to ever
 - JavaScript
 - HTML
 - CSS
-- React
-- Redux
+- React & Redux
 - NodeJS & Express
+- Sequelize
+- PostgreSQL & MongoDB
 - Docker
-- Sequelize & Postgres
 - Passport
 - Firebase & Supabase
 
