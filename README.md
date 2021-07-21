@@ -5,7 +5,7 @@ Soy JS Full Stack Web Developer apasionada por hacer que la web sea accesible pa
 
 - 🌿 Mis pronombres: Ella/la
 - ❤ Aprendiendo **Java**
-- ✊ Cuando no estoy codeando, estoy haciendo activismo por la justicia social, animales no humanxs y contra el cambio climático en [https://fairargentina.com/](FAIR Argentina)
+- ✊ Cuando no estoy codeando, me encuentran haciendo activismo por la justicia social, animales no humanxs y contra el cambio climático en [FAIR Argentina](https://fairargentina.com/)
 
 ### Mis competencias 🖥
 
