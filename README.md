@@ -1,13 +1,13 @@
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
-  # Hi there! I'm Victoria 👋
+  # ¡Hola! Soy Victoria y trabajo como Backend Developer 👋
 
-I'm a JS Full Stack Developer passionate about making the web accessible to everyone and advocating for building open and inclusive communities ✨ I'm currently working on many projects to show my skills to the world!
+Soy JS Full Stack Web Developer apasionada por hacer que la web sea accesible para todxs, dedicada a crear comunidades abiertas e inclusivas ✨ Actualmente estoy aprendiendo Java y fortaleciendo mis competencias.
 
-- 🌿 My pronouns: She/her
-- ❤ Learning all about **Open Source**
-- ✊ When I'm not coding, you can find me doing activism for social justice, non-human animals and against the climate change
+- 🌿 Mis pronombres: Ella/la
+- ❤ Aprendiendo **Java**
+- ✊ Cuando no estoy codeando, estoy haciendo activismo por la justicia social, animales no humanxs y contra el cambio climático
 
-### My skills 🖥
+### Mis competencias 🖥
 
 - JavaScript
 - HTML
@@ -20,7 +20,7 @@ I'm a JS Full Stack Developer passionate about making the web accessible to ever
 - Passport
 - Firebase & Supabase
 
-### Get in touch 📲
+### Sigamos en contacto 📲
 
 - LinkedIn: [https://www.linkedin.com/in/vic-coronado/](https://www.linkedin.com/in/vic-coronado/)
 - E-mail: vcoronadoasm@gmail.com
