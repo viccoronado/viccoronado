@@ -1,7 +1,7 @@
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
   # ¡Hola! Soy Victoria y trabajo como Backend Developer 👋
 
-Soy JS Full Stack Web Developer apasionada por hacer que la web sea accesible para todxs, dedicada a crear comunidades abiertas e inclusivas ✨ Actualmente estoy aprendiendo Java y fortaleciendo mi dominio de otras tecnologías.
+Soy JS Full Stack Web Developer apasionada por hacer que la web sea accesible para todxs y dedicada a crear comunidades abiertas e inclusivas ✨ Actualmente estoy aprendiendo Java y fortaleciendo mi dominio de otras tecnologías.
 
 - 🌿 Mis pronombres: Ella/la
 - ❤ Aprendiendo **Java**
