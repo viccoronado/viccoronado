@@ -2,10 +2,10 @@
   # ¡Hola! Soy Victoria, Backend Software Developer 👋
 
 Soy una desarrolladora apasionada por hacer que la web sea accesible para todxs y dedicada a crear comunidades abiertas e inclusivas ✨ 
-Actualmente estoy aprendiendo Go y fortaleciendo el dominio de las tecnologías que he aprendido en los últimos meses dentro de mi trabajo, por lo que es probable que no me veas muy activa por acá pero... I'm trying my best 😋
+Actualmente estoy aprendiendo Go y fortaleciendo mis hard skills dentro del trabajo, por lo que es probable que no me veas muy activa por acá pero *no se trata de cantidad sino de calidad*, ¿no?
 
 - 🌿 Mis pronombres: Ella/la
-- ❤ Fan de **documentar APIs**
+- ❤ Fan de **documentar APIs** & **clean code**
 - 🧗🏼‍♀️ Cuando no estoy codeando, me encuentran escalando montañas o acampando en la costa de algún río.
 
 ### Mis competencias👩🏻‍💻
