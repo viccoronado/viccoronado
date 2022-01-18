@@ -5,7 +5,7 @@ Soy una desarrolladora apasionada por hacer que la web sea accesible para todxs 
 Actualmente estoy aprendiendo Go y fortaleciendo mis hard skills dentro del trabajo, por lo que es probable que no me veas muy activa por acá pero *no se trata de cantidad sino de calidad*, ¿no?
 
 - 🌿 Mis pronombres: Ella/la
-- ❤ Fan de **documentar APIs** & **clean code**
+- ❤ Fan de **documentar** & **clean code**
 - 🧗🏼‍♀️ Cuando no estoy codeando, me encuentran escalando montañas o acampando en la costa de algún río.
 
 ### Mis competencias👩🏻‍💻
