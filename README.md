@@ -1,5 +1,5 @@
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
-  # ¡Hola! Soy Victoria, Backend Software Developer en Mercado Libre 👋
+  # ¡Hola! Soy Victoria, Backend Software Developer 👋
 
 Soy Full Stack Web Developer apasionada por hacer que la web sea accesible para todxs y dedicada a crear comunidades abiertas e inclusivas ✨ Actualmente estoy aprendiendo Java y fortaleciendo mi dominio de otras tecnologías.
 
