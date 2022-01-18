@@ -1,19 +1,18 @@
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
-  # ¡Hola! Soy Victoria y trabajo como Backend Developer 👋
+  # ¡Hola! Soy Victoria, Backend Software Developer en Mercado Libre 👋
 
 Soy Full Stack Web Developer apasionada por hacer que la web sea accesible para todxs y dedicada a crear comunidades abiertas e inclusivas ✨ Actualmente estoy aprendiendo Java y fortaleciendo mi dominio de otras tecnologías.
 
 - 🌿 Mis pronombres: Ella/la
-- ❤ Aprendiendo **Java**
-- ✊ Cuando no estoy codeando, me encuentran haciendo activismo por la justicia social, animales no humanxs y contra el cambio climático en [FAIR Argentina](https://fairargentina.com/).
+- ❤ Aprendiendo **Go**
+- 🧗🏼‍♀️ Cuando no estoy codeando, me encuentran escalando montañas o acampando en la costa de algún río.
 
 ### Mis competencias 🖥
 
+- Java
 - JavaScript
-- HTML
-- CSS
+- HTML & CSS
 - React & Redux
-- NodeJS & Express
 - Sequelize
 - PostgreSQL & MongoDB
 - Docker
