@@ -8,7 +8,7 @@ Soy abogada (lo cual me brinda distintas habilidades que aplico en mi día a dí
 - ❤ Fan de **documentar** & **clean code**
 - 🧗🏼‍♀️ Cuando no estoy codeando, me encuentran escalando montañas o acampando en la costa de algún río.
 
-### ¿Qué tecnologías domino? 👩🏻‍
+### ¿Qué tecnologías domino? 
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
