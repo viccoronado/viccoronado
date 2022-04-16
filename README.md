@@ -1,4 +1,4 @@
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
   # ¡Hola! Soy Victoria, Backend Software Developer 👋
 
 Soy una persona apasionada por hacer que la web sea accesible para todxs y dedicada a crear comunidades abiertas e inclusivas: participo en iniciativas como [Mujeres en Tecnología](https://mujeresentecnologia.org/), soy traductora en [freeCodeCamp](https://www.freecodecamp.org/) y brindo mentorías a otras/es/os desarrolladores. 
@@ -30,4 +30,4 @@ Soy abogada (lo cual me brinda distintas habilidades que aplico en mi día a dí
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 </div>
 
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
