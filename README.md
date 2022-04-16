@@ -26,4 +26,6 @@ Soy abogada (lo cual me brinda distintas habilidades que aplico en mi día a dí
 - LinkedIn: [https://www.linkedin.com/in/vic-coronado/](https://www.linkedin.com/in/vic-coronado/)
 - E-mail: vcoronadoasm@gmail.com
 
+![10](http://ForTheBadge.com/images/badges/built-with-love.svg)
+
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
