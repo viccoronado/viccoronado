@@ -10,7 +10,7 @@ Soy una desarrolladora apasionada por hacer que la web sea accesible para todxs 
 ### Stack tecnológico 👩🏻‍💻
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)
           
 
 - Java
