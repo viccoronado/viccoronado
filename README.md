@@ -6,6 +6,7 @@ Soy abogada (lo cual me brinda distintas habilidades que aplico en mi día a dí
 
 - 🌿 Mis pronombres: Ella/la
 - ❤ Fan de **documentar** & **clean code**
+- 📚 Actualmente aprendiendo Python
 - 🧗🏼‍♀️ Cuando no estoy codeando, me encuentran escalando montañas o acampando en la costa de algún río.
 
 ### ¿Qué tecnologías domino? 
