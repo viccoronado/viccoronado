@@ -2,7 +2,7 @@
   # ¡Hola! Soy Victoria, Backend Software Developer 👋
 
 Soy una persona dedicada a hacer que la web sea accesible para todxs y crear comunidades abiertas e inclusivas: soy traductora en [freeCodeCamp](https://www.freecodecamp.org/), fui nombrada [Women Techmakers Ambassador](https://developers.google.com/womentechmakers) y brindo mentorías a otras/es/os desarrolladores. 
-También soy abogada (lo cual me brinda distintas habilidades que aplico en mi día a día) y, si bien mi perfil es de Full Stack Web Developer, tengo una fuerte orientación por el backend y es donde tengo mayor experiencia laboral ✨ 
+También soy abogada (lo cual me brinda distintas habilidades que aplico en mi día a día) y aunque me gusta incursionar en diseño UI/UX y Accesibilidad Web, me desempeño mejor como Backend Developer y es el área donde trabajo desde hace un año ✨ 
 
 - 🌿 Mis pronombres: Ella/la
 - ❤ Fan de **documentar** & del **clean code**
